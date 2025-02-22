@@ -61,7 +61,7 @@ The MIT License was chosen for its permissive nature, allowing for broad reuse, 
   - Description: Develop a feature that automatically notifies managers when inventory levels fall below a set threshold.
 
 - Project Wiki
-Refer to the Wiki(https://github.com/Harsh-9595/CapstoneProject.wiki.git) for detailed documentation, including:
+Refer to the Wiki(https://github.com/Harsh-9595/CapstoneProject/wiki/Version-Control-Documentation.)) for detailed documentation, including:
 - Source Control: Using Git for version control.
 - Why Git?
   - Efficient branch management for collaborative development.
